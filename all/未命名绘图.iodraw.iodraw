@@ -43,9 +43,12 @@
         <mxCell id="ng03exicd_0C_e84v9x9-37" value="基于模型进行生产动态优化" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1320" y="290" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ng03exicd_0C_e84v9x9-4">
+        <mxCell id="ng03exicd_0C_e84v9x9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.469;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-1" target="ng03exicd_0C_e84v9x9-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="740" y="165" />
+              <mxPoint x="162" y="165" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
