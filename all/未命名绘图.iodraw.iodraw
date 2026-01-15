@@ -7,9 +7,6 @@
         <mxCell id="ng03exicd_0C_e84v9x9-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-1" target="ng03exicd_0C_e84v9x9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-1" target="ng03exicd_0C_e84v9x9-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-1" target="ng03exicd_0C_e84v9x9-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -20,9 +17,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-4" target="ng03exicd_0C_e84v9x9-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-4" target="ng03exicd_0C_e84v9x9-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-4" value="气藏-井筒耦合模型的建立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-29" value="基于 Actor-Critic 的页岩气开发调控模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="200" width="270" height="40" as="geometry" />
+          <mxGeometry x="460" y="570" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-30" value="&lt;div&gt;DDPG算法的强化学习模型构建&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1130" y="290" width="40" height="180" as="geometry" />
