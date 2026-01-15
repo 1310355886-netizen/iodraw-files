@@ -51,7 +51,10 @@
           <mxGeometry x="320" y="460" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="570" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
