@@ -28,8 +28,7 @@
         <mxCell id="ng03exicd_0C_e84v9x9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-10" target="ng03exicd_0C_e84v9x9-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="240" />
-              <mxPoint x="510" y="265" />
+              <mxPoint x="520" y="265" />
               <mxPoint x="440" y="265" />
             </Array>
           </mxGeometry>
@@ -45,6 +44,9 @@
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-12" value="智能历史拟合精度评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="570" y="290" width="43" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-22" target="ng03exicd_0C_e84v9x9-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-22" value="基于GBDT的主控因素分析及代理模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="200" width="270" height="40" as="geometry" />
