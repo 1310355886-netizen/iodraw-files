@@ -7,33 +7,14 @@
         <mxCell id="ng03exicd_0C_e84v9x9-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;基于深度强化学习的页岩气井生产动态调控&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="60" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="801" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-4" value="气藏-井筒耦合模型的建立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="220" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-7" target="ng03exicd_0C_e84v9x9-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-7" value="气藏渗流与井筒流动双向关联" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-8" target="ng03exicd_0C_e84v9x9-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-8" value="协同计算修正偏差" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="40" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-10" target="ng03exicd_0C_e84v9x9-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-10" value="集合卡尔曼滤波的页岩气智能历史拟合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="130" width="210" height="60" as="geometry" />
@@ -41,14 +22,8 @@
         <mxCell id="ng03exicd_0C_e84v9x9-11" value="储层参数反演与模型矫正" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="750" y="220" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-12" target="ng03exicd_0C_e84v9x9-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-12" value="智能历史拟合精度评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="850" y="220" width="43" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.293;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-11" target="ng03exicd_0C_e84v9x9-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-22" target="ng03exicd_0C_e84v9x9-29">
           <mxGeometry relative="1" as="geometry">
