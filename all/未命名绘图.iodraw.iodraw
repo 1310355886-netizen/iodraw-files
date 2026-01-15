@@ -33,6 +33,11 @@
         <mxCell id="ng03exicd_0C_e84v9x9-7" value="井筒压降模型" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="40" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.0000000000002" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-8" value="气藏-井筒边界耦合" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="40" height="180" as="geometry" />
         </mxCell>
