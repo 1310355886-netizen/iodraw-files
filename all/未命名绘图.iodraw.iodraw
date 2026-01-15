@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-4" value="气藏-井筒耦合模型的建立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="260" height="40" as="geometry" />
+          <mxGeometry x="300" y="90" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-7" target="ng03exicd_0C_e84v9x9-4">
           <mxGeometry relative="1" as="geometry" />
