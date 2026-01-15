@@ -19,7 +19,7 @@
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="800.7999267578125" as="targetPoint" />
+            <mxPoint x="260" y="801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-4" value="气藏-井筒耦合模型的建立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,6 +79,16 @@
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.298;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-23" target="ng03exicd_0C_e84v9x9-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-29" value="基于 Actor-Critic 的页岩气开发调控模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="270" height="60" as="geometry" />
