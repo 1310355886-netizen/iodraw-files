@@ -134,8 +134,8 @@
         <mxCell id="ng03exicd_0C_e84v9x9-66" value="实现动态调控生产制度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="910" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-71" value="井筒储藏耦合渗流控制方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="290" width="40" height="180" as="geometry" />
+        <mxCell id="ng03exicd_0C_e84v9x9-71" value="井筒储藏耦合渗流控制方程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
