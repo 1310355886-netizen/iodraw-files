@@ -26,7 +26,7 @@
           <mxGeometry x="570" y="290" width="43" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-22" value="基于GBDT的主控因素分析及代理模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="190" width="270" height="60" as="geometry" />
+          <mxGeometry x="720" y="200" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-23" value="产能影响主控因素分析及排序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="850" y="730" width="40" height="160" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1060" y="630" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-29" value="基于 Actor-Critic 的页岩气开发调控模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="850" width="270" height="60" as="geometry" />
+          <mxGeometry x="900" y="870" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-30" value="&lt;div&gt;DDPG算法的强化学习模型构建&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="710" y="840" width="46" height="220" as="geometry" />
