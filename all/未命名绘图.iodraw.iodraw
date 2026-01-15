@@ -50,6 +50,11 @@
         <mxCell id="ng03exicd_0C_e84v9x9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.293;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-11" target="ng03exicd_0C_e84v9x9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-22" value="基于GBDT的主控因素分析及代理模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="270" height="60" as="geometry" />
         </mxCell>
