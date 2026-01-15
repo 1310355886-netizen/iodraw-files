@@ -16,10 +16,10 @@
           <mxGeometry x="320" y="140" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-7" value="气藏渗流与井筒流动双向关联" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="40" height="180" as="geometry" />
+          <mxGeometry x="320" y="220" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-8" value="协同计算修正偏差" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="40" height="180" as="geometry" />
+          <mxGeometry x="540" y="220" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-10" value="集合卡尔曼滤波的页岩气智能历史拟合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="130" width="210" height="60" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry x="590" y="230" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-12" value="智能历史拟合精度评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="727" y="220" width="43" height="180" as="geometry" />
+          <mxGeometry x="877" y="220" width="43" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
