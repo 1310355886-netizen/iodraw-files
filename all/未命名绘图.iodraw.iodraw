@@ -50,6 +50,9 @@
         <mxCell id="ng03exicd_0C_e84v9x9-22" value="基于GBDT的主控因素分析及代理模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
