@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ng03exicd_0C_e84v9x9-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;基于深度强化学习的页岩气井生产动态调控&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="70" width="260" height="50" as="geometry" />
+          <mxGeometry x="310" y="80" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-4" value="气藏-井筒耦合模型的建立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="200" width="260" height="40" as="geometry" />
+          <mxGeometry x="740" y="230" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-7" value="气藏渗流与井筒流动双向关联" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="827" y="290" width="40" height="180" as="geometry" />
@@ -32,16 +32,16 @@
           <mxGeometry x="1310" y="880" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-23" value="产能影响主控因素分析及排序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="40" height="160" as="geometry" />
+          <mxGeometry x="850" y="730" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-24" value="卷积神经网络模型构建与评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="530" y="560" width="40" height="160" as="geometry" />
+          <mxGeometry x="1060" y="630" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-29" value="基于 Actor-Critic 的页岩气开发调控模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="750" width="270" height="60" as="geometry" />
+          <mxGeometry x="900" y="850" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-30" value="&lt;div&gt;DDPG算法的强化学习模型构建&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="354" y="840" width="46" height="220" as="geometry" />
+          <mxGeometry x="710" y="840" width="46" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
