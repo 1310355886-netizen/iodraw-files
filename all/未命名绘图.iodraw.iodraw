@@ -114,7 +114,7 @@
         <mxCell id="ng03exicd_0C_e84v9x9-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-30" target="ng03exicd_0C_e84v9x9-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;强化学习模型构建&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="ng03exicd_0C_e84v9x9-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;强化学习模型构建&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="410" y="660" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.469;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-1" target="ng03exicd_0C_e84v9x9-4">
@@ -130,7 +130,7 @@
             <mxPoint x="520.0000000000002" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分阶段进行模型优化&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="ng03exicd_0C_e84v9x9-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分阶段进行模型优化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="570" y="660" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;页岩气开发生产制度实时调控&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
