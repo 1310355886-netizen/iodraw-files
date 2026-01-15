@@ -137,6 +137,9 @@
         <mxCell id="ng03exicd_0C_e84v9x9-71" value="井筒-气藏耦合渗流控制方程" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="40" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
