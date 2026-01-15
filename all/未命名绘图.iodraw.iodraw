@@ -24,8 +24,11 @@
         <mxCell id="ng03exicd_0C_e84v9x9-10" value="集合卡尔曼滤波的页岩气智能历史拟合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="130" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-11" value="储层参数反演与模型矫正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng03exicd_0C_e84v9x9-11" value="储层参数反演与模型矫正" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
