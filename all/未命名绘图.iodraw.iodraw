@@ -27,6 +27,11 @@
         <mxCell id="ng03exicd_0C_e84v9x9-4" value="气藏-井筒耦合模型的建立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="260" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-7" value="气藏渗流与井筒流动双向关联" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="40" height="180" as="geometry" />
         </mxCell>
