@@ -91,7 +91,7 @@
             <mxPoint x="850" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-23" value="产能影响主控因素分析及排序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="ng03exicd_0C_e84v9x9-23" value="数据集构建与清洗" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="730" y="290" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-24">
@@ -159,11 +159,8 @@
         <mxCell id="ng03exicd_0C_e84v9x9-72" value="储层参数反演" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="499" y="290" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-73" value="产能影响主控因素分析及排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ng03exicd_0C_e84v9x9-73" value="产能影响主控因素分析及排序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="835" y="290" width="40" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="ng03exicd_0C_e84v9x9-79" value="产能影响主控因素分析及排序" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="740" y="300" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
