@@ -78,7 +78,7 @@
           <mxGeometry x="379" y="570" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-30" value="&lt;div&gt;DDPG算法的强化学习模型构建&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="40" height="180" as="geometry" />
+          <mxGeometry x="410" y="660" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.469;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-1" target="ng03exicd_0C_e84v9x9-4">
           <mxGeometry relative="1" as="geometry">
