@@ -32,7 +32,7 @@
           <mxGeometry x="850" y="730" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-24" value="卷积神经网络模型构建与评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="630" width="40" height="160" as="geometry" />
+          <mxGeometry x="1140" y="310" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-29" value="基于 Actor-Critic 的页岩气开发调控模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="200" width="270" height="40" as="geometry" />
