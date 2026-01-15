@@ -41,8 +41,16 @@
         <mxCell id="ng03exicd_0C_e84v9x9-11" value="储层参数反演与模型矫正" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="750" y="220" width="40" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-12" value="智能历史拟合精度评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="877" y="220" width="43" height="180" as="geometry" />
+          <mxGeometry x="850" y="220" width="43" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.293;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-11" target="ng03exicd_0C_e84v9x9-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
