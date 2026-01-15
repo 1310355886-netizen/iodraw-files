@@ -41,6 +41,9 @@
         <mxCell id="ng03exicd_0C_e84v9x9-11" value="储层参数反演与模型矫正" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="750" y="220" width="40" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="ng03exicd_0C_e84v9x9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ng03exicd_0C_e84v9x9-12" target="ng03exicd_0C_e84v9x9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-12" value="智能历史拟合精度评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="850" y="220" width="43" height="180" as="geometry" />
         </mxCell>
@@ -54,7 +57,7 @@
           <mxGeometry x="320" y="560" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ng03exicd_0C_e84v9x9-24" value="卷积神经网络模型构建与评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="530" y="570" width="40" height="150" as="geometry" />
+          <mxGeometry x="530" y="560" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
